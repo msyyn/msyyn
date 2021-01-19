@@ -5,7 +5,7 @@ I'm a front-end developer working at [Woolman](https://woolman.io). We build sup
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msyyn)
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
 
-## Few quick facts
+## A few quick facts
 - 🛥 Working on a social media side project. 
 - 📚 Learning about serverless web applications.
 - 🧑‍💻 I excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
