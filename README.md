@@ -7,7 +7,7 @@ I'm a front-end developer working at [Woolman](https://woolman.io). We build sup
 
 ## Few quick facts
 - 🛥 Working on a social media side project. 
-- 📚 Learning about serverless web applications
+- 📚 Learning about serverless web applications.
 - 🧑‍💻 I excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
 - 🎨 I've worked as a graphics designer for several years.
 - 🖥️ I do my gaming on a custom-built Windows PC.
