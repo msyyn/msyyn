@@ -33,7 +33,7 @@ I'm a front-end developer working at [Woolman](https://woolman.io). We build sup
 <!--
 ![msyyn's github stats](https://github-readme-stats.vercel.app/api?username=msyyn&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs,stars,issues)
 -->
-[![msyyn's stats](https://github-readme-stats.vercel.app/api/wakatime?username=msyyn)]
+![msyyn's stats](https://github-readme-stats.vercel.app/api/wakatime?username=msyyn)
 
 <!--
 **msyyn/msyyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
