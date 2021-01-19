@@ -30,9 +30,10 @@ I'm a front-end developer working at [Woolman](https://woolman.io). We build sup
 ![Discord](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=figma&logoColor=white)
 
+<!--
 ![msyyn's github stats](https://github-readme-stats.vercel.app/api?username=msyyn&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs,stars,issues)
-
-[![msyyn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msyyn)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![msyyn's stats](https://github-readme-stats.vercel.app/api/wakatime?username=msyyn)]
 
 <!--
 **msyyn/msyyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
