@@ -9,7 +9,7 @@ I'm a front-end developer working at [Woolman](https://woolman.io). We build sup
 - 🛥 Working on a social media side project. 
 - 📚 Learning about serverless web applications.
 - 🧑‍💻 I excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
-- 🎨 I've worked as a graphics designer for several years in the past.
+- 🎨 Worked as a graphics designer for several years in the past, so got eye for visuals too.
 - 🖥️ Gaming on a custom-built Windows PC.
 - 💻 Work things are done in Ubuntu.
 - 📃 Prefer writing my own CSS, but handle frameworks such as Bulma/Bootstrap/Foundation/TailwindCSS/CirrusUI as well.
