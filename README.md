@@ -10,9 +10,9 @@ I'm a front-end developer working at [Woolman](https://woolman.io). We build sup
 - 📚 Learning about serverless web applications.
 - 🧑‍💻 I excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
 - 🎨 I've worked as a graphics designer for several years in the past.
-- 🖥️ I do my gaming on a custom-built Windows PC.
-- 💻 Work related things are done in Ubuntu.
-- 📃 I prefer writing my own CSS, but I handle Bulma/Bootstrap/Foundation/TailwindCSS as well.
+- 🖥️ Gaming on a custom-built Windows PC.
+- 💻 Work things are done in Ubuntu.
+- 📃 Prefer writing my own CSS, but handle frameworks such as Bulma/Bootstrap/Foundation/TailwindCSS/CirrusUI as well.
 
 ## Technologies, tools and platforms
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
