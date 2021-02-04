@@ -6,7 +6,7 @@ I'm a front-end developer working at [Woolman](https://woolman.io). We build sup
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
 
 ## A few quick facts
-- 🛥 Working on a social media side project (serverless Svelte app)
+- 🛥 Working on a social media side project (built on Svelte)
 - 📚 Learning about serverless web applications.
 - 💻 Excel at writing [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
 - 🎨 Worked as a graphics designer for several years in the past, so got eye for visuals too.
