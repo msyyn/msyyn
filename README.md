@@ -12,7 +12,6 @@ I'm a front-end developer building super-powered online stores. Also working on 
 - 🎨 Worked as a graphics designer for several years in the past, so got eye for visuals too.
 - 🖥️ Gaming on a custom-built Windows PC.
 - 💻 Work things are done in Ubuntu.
-- 📃 Prefer writing my own CSS, but handle frameworks such as Bulma/Bootstrap/Foundation/TailwindCSS/CirrusUI as well.
 
 ## Technologies, tools and platforms
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
