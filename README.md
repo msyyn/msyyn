@@ -9,7 +9,7 @@ I'm a front-end developer building super-powered online stores. Also working on 
 - 📚 Learning about serverless web applications.
 - 💻 Excel at writing [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
 - 🎨 Worked as a graphics designer for several years so got eye for visuals too.
-- 🖥️ Gaming on a custom-built Windows PC.
+- 🖥️ Gaming on a custom-built Windows PC and Stadia.
 - 💻 Work things are done in Ubuntu.
 
 ## Technologies, tools and platforms
