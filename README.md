@@ -8,7 +8,7 @@ I'm a front-end developer building super-powered online stores. Also working on 
 - 🛥 Working on a few Svelte side projects.
 - 📚 Learning about serverless web applications.
 - 💻 Excel at writing [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
-- 🎨 Worked as a graphics designer for several years in the past, so got eye for visuals too.
+- 🎨 Worked as a graphics designer for several years so got eye for visuals too.
 - 🖥️ Gaming on a custom-built Windows PC.
 - 💻 Work things are done in Ubuntu.
 
