@@ -30,6 +30,7 @@ I'm a front-end developer building super-powered online stores. Also working on 
 
 ## Stack of choice
 Online stores: Shopify + Liquid.
+
 Web applications: Svelte + Tailwind + Supabase + Vercel.
 
 <!--
