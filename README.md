@@ -28,6 +28,10 @@ I'm a front-end developer building super-powered online stores. Also working on 
 ![Discord](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=figma&logoColor=white)
 
+## Stack of choice
+Online stores: Shopify + Liquid.
+Web applications: Svelte + Tailwind + Supabase + Vercel.
+
 <!--
 https://simpleicons.org
 ![msyyn's github stats](https://github-readme-stats.vercel.app/api?username=msyyn&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs,stars,issues)
