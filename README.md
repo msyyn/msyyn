@@ -7,8 +7,8 @@ I'm a front-end developer building super-powered online stores. Also working on 
 ## A few quick facts
 - 📚 Learning about Svelte and serverless web applications.
 - 💻 Excel at writing [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
-- 🎨 Worked as a graphics designer for several years so got eye for visuals too.
-- 🖥️ Windows and Linux > Mac. Sorry :/
+- 🎨 Love good visuals and I am a creative person.
+- 🖥️ Windows + Linux. This is the way.
 
 ## Technologies, tools and platforms
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
