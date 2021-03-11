@@ -5,12 +5,10 @@ I'm a front-end developer building super-powered online stores. Also working on 
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
 
 ## A few quick facts
-- 🛥 Working on a few Svelte side projects.
-- 📚 Learning about serverless web applications.
+- 📚 Learning about Svelte and serverless web applications.
 - 💻 Excel at writing [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
 - 🎨 Worked as a graphics designer for several years so got eye for visuals too.
-- 🖥️ Gaming on a custom-built Windows PC and Stadia.
-- 💻 Work things are done in Ubuntu.
+- 🖥️ Windows and Linux > Mac. Sorry :/
 
 ## Technologies, tools and platforms
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,10 +26,6 @@ I'm a front-end developer building super-powered online stores. Also working on 
 ![Discord](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=figma&logoColor=white)
 
-## Stack of choice
-Online stores: Shopify + Liquid.
-
-Web applications: Svelte + Tailwind + Supabase + Vercel.
 
 <!--
 https://simpleicons.org
