@@ -5,8 +5,8 @@ I'm a front-end developer building super-powered online stores. Also working on 
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
 
 ## A few quick facts
+- 💻 Excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
 - 📚 Learning about Svelte and serverless web applications.
-- 💻 Excel at writing [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
 - 🎨 Love good visuals and I am a creative person.
 - 🖥️ Windows + Linux. This is the way.
 
