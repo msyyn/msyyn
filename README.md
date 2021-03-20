@@ -1,16 +1,17 @@
-Hi 👋, I am Mika.
+**Hi 👋, I am Mika.**
+
 I like building complex things on the web and share my findings with others.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msyyn)
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
 
-<!--
 ## A few quick facts
 - 💻 Excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
-- 📚 Learning about serverless web applications.
+- 📚 Recently learning about Svelte, Supabase and serverless web applications.
 - 🎨 Love good visuals and I am a creative person.
-- 🖥️ Windows + Linux. This is the way.
+- 🖥️ Windows & Linux. This is the way.
 
+<!--
 ## Technologies, tools and platforms
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +26,6 @@ I like building complex things on the web and share my findings with others.
 ![Discord](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=figma&logoColor=white)
 -->
-
 <!--
 https://simpleicons.org
 ![msyyn's github stats](https://github-readme-stats.vercel.app/api?username=msyyn&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs,stars,issues)
