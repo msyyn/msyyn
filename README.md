@@ -1,12 +1,13 @@
 ## Hi 👋, I am Mika.
-I'm a front-end developer building super-powered online stores. Also working on some side projects, learning new things and playing video games on my free time. 🕹🛒
+I like building complex things on the web and share my findings with others.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msyyn)
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
 
+<!--
 ## A few quick facts
 - 💻 Excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
-- 📚 Learning about Svelte and serverless web applications.
+- 📚 Learning about serverless web applications.
 - 🎨 Love good visuals and I am a creative person.
 - 🖥️ Windows + Linux. This is the way.
 
@@ -23,7 +24,7 @@ I'm a front-end developer building super-powered online stores. Also working on 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55c?style=for-the-badge&logo=shopify&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord%20API-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-e04a34?style=for-the-badge&logo=figma&logoColor=white)
-
+-->
 
 <!--
 https://simpleicons.org
