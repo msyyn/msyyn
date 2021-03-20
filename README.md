@@ -1,6 +1,6 @@
 # Hi 👋, I am Mika.
 
-I like building complex things on the web and share my findings to help others learn too.
+I build complex things on the web and share my findings to help others learn too.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msyyn)
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
