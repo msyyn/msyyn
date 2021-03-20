@@ -1,4 +1,4 @@
-## Hi 👋, I am Mika.
+Hi 👋, I am Mika.
 I like building complex things on the web and share my findings with others.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msyyn)
