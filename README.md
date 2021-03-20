@@ -1,4 +1,4 @@
-**Hi 👋, I am Mika.**
+# Hi 👋, I am Mika.
 
 I like building complex things on the web and share my findings with others.
 
