@@ -1,12 +1,12 @@
 # Hi 👋, I am Mika.
 
-I build complex things on the web and share my findings to help others learn too.
+I like building complex things on the web
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msyyn)
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/msyyn)
 
 ## A few quick facts
-- 💻 Excel at [Liquid](https://shopify.github.io/liquid/), Javascript and LUA.
+- 💻 Excel at Liquid, Javascript and LUA.
 - 📚 Recently learning about Svelte, Supabase and serverless web applications.
 - 🎨 Love good visuals and I am a creative person.
 - 🖥️ Windows & Linux. This is the way.
